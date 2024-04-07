@@ -17,9 +17,6 @@ const config: DocsThemeConfig = {
       </svg>
     )
   },
-  editLink: {
-    component: null
-  },
   footer: {
     text: 'BPS Kabupaten Karanganyar',
   },
