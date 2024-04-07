@@ -17,9 +17,9 @@ const config: DocsThemeConfig = {
       </svg>
     )
   },
-  editLink: () => {
-    return {
-      component: null
+  editLink: {
+    component: () => {
+      return null;
     }
   },
   footer: {
