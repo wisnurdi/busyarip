@@ -11,9 +11,6 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://api.whatsapp.com/send?phone=+6289605933133&text=halo',
   },
-  feedback: {
-    content: null,
-  },
   footer: {
     text: 'BPS Kabupaten Karanganyar',
   },
