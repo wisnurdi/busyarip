@@ -2,7 +2,11 @@
   "index": "Beranda",
   "kenaikan-pangkat": "Kenaikan Pangkat",
   "izin-belajar": "Izin belajar",
+  "selesai-studi": "Laporan Selesai Studi",
+  "ujian-dinas": "Ujian Dinas",
+  "ujian-penyesuaian-ijazah": "Ujian Penyesuaian Ijazah",
   "pensiun": "Pensiun",
+  "kartu": "Kartu-kartu",
   "about": {
     "title": "Tentang",
     "type": "page"
