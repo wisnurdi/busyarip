@@ -3,6 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>Bu Syarip</span>,
+  titleTemplate: '%s',
   chat: {
     link: 'https://api.whatsapp.com/send?phone=+6289605933133&text=halo',
   },
