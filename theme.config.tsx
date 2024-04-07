@@ -14,7 +14,7 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'BPS Kabupaten Karanganyar',
   },
-  feedback.content: null,
+  feedback.content: 'null',
 }
 
 export default config
