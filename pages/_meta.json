@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
+  "pensiun": "Pensiun",
   "kenaikan-pangkat": "Kenaikan Pangkat",
+  "izin-belajar": "Izin belajar",
   "about": {
     "title": "Tentang",
     "type": "page"
@@ -9,7 +10,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://karanganyarkab.bps.go.id",
     "newWindow": true
   }
 }
