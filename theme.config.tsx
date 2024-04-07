@@ -20,6 +20,9 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'BPS Kabupaten Karanganyar',
   },
+  editLink: {
+    component: null
+  }
   
 }
 
