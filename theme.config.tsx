@@ -22,6 +22,9 @@ const config: DocsThemeConfig = {
   },
   editLink: {
     component: null
+  },
+  feedback: {
+    content: null
   }
   
 }
