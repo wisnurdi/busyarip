@@ -11,10 +11,4 @@
     "title": "Tentang",
     "type": "page"
   },
-  "contact": {
-    "title": "Website ↗",
-    "type": "page",
-    "href": "https://karanganyarkab.bps.go.id",
-    "newWindow": true
-  }
 }
