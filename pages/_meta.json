@@ -1,8 +1,8 @@
 {
-  "index": "Introduction",
-  "pensiun": "Pensiun",
+  "index": "Beranda",
   "kenaikan-pangkat": "Kenaikan Pangkat",
   "izin-belajar": "Izin belajar",
+  "pensiun": "Pensiun",
   "about": {
     "title": "Tentang",
     "type": "page"
