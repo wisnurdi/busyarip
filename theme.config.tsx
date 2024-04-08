@@ -37,7 +37,8 @@ const config: DocsThemeConfig = {
   },
   feedback: {
     content: null
-  }
+  },
+  gitTimestamp: null
   
 }
 
