@@ -38,7 +38,11 @@ const config: DocsThemeConfig = {
   feedback: {
     content: null
   },
-  gitTimestamp: null
+  gitTimestamp: null,
+  search: {
+    placeholder: () => {
+      return 'Cari persyaratan';
+  }
   
 }
 
