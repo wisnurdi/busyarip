@@ -40,8 +40,7 @@ const config: DocsThemeConfig = {
   },
   gitTimestamp: null,
   search: {
-    placeholder: () => {
-      return 'Cari persyaratan';
+    placeholder: 'Cari persyaratan'
   }
   
 }
